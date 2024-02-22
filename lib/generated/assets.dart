@@ -7,5 +7,30 @@ class Assets {
   static const String assetsC3 = 'assets/c3.webp';
   static const String assetsC4 = 'assets/c4.webp';
   static const String assetsProfile = 'assets/profile.jpg';
+  static const String socialIconsAndroid = 'assets/social_icons/android.svg';
+  static const String socialIconsApple = 'assets/social_icons/apple.svg';
+  static const String socialIconsFacebook = 'assets/social_icons/facebook.svg';
+  static const String socialIconsGithub = 'assets/social_icons/github.svg';
+  static const String socialIconsGoogle = 'assets/social_icons/google.svg';
+  static const String socialIconsIos = 'assets/social_icons/ios.svg';
+  static const String socialIconsLinkedin = 'assets/social_icons/linkedin.svg';
+  static const String socialIconsLinux = 'assets/social_icons/linux.svg';
+  static const String socialIconsMac = 'assets/social_icons/mac.svg';
+  static const String socialIconsOther = 'assets/social_icons/other.svg';
+  static const String socialIconsTwitter = 'assets/social_icons/twitter.svg';
+  static const String socialIconsWeb = 'assets/social_icons/web.svg';
+  static const String socialIconsWindows = 'assets/social_icons/windows.svg';
+  static const String uiIconsAddNew = 'assets/ui_icons/add_new.svg';
+  static const String uiIconsAddNewPng = 'assets/ui_icons/add_new_png.png';
+  static const String uiIconsCartPng = 'assets/ui_icons/cart_png.png';
+  static const String uiIconsFirst = 'assets/ui_icons/first.svg';
+  static const String uiIconsFirstPng = 'assets/ui_icons/first_png.png';
+  static const String uiIconsMd = 'assets/ui_icons/md.svg';
+  static const String uiIconsMdPng = 'assets/ui_icons/md_png.png';
+  static const String uiIconsMenu = 'assets/ui_icons/menu.png';
+  static const String uiIconsProfile = 'assets/ui_icons/profile.svg';
+  static const String uiIconsProfilePng = 'assets/ui_icons/profile_png.png';
+  static const String uiIconsShop = 'assets/ui_icons/shop.svg';
+  static const String uiIconsShopPng = 'assets/ui_icons/shop_png.png';
 
 }
